@@ -13,6 +13,12 @@ You can find this project on a **Google Colab** notebook [here.](https://colab.r
 
 
 ## 2. SVM — MNIST Dataset
+The `svm-mnist.ipynb` is a Jupyter Notebook with my implementation of a LINEAR Support Vector Machine Model. I used the **sci-kit learn** library to easily implement the SVM model.
 
+The algorithm performed at a **97.92%** accuracy.
+
+![svm-performance](https://raw.githubusercontent.com/psrth/intro-to-machine-learning/main/imgs/svm-result.png)
+
+You can find this project on a **Google Colab** notebook [here.](https://colab.research.google.com/drive/1C4NPNzLrBHv2VXo3STBdyJ9W-sCnOUCX?usp=sharing)
 
 ## 3. 2-Layered Neural Net — MNIST Dataset

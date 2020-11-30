@@ -22,3 +22,10 @@ The algorithm performed at a **97.92%** accuracy.
 You can find this project on a **Google Colab** notebook [here.](https://colab.research.google.com/drive/1C4NPNzLrBHv2VXo3STBdyJ9W-sCnOUCX?usp=sharing)
 
 ## 3. 2-Layered Neural Net — MNIST Dataset
+The `neural_net-mnist.ipynb` is a Jupyter Notebook with my implementation of a 2-Hidden Layer Neural Network. I used the **PyTorch** library to easily implement the network. It goes from 784 > 128 > 64 > 10 nodes.
+
+The algorithm performed at a **97.92%** accuracy.
+
+![svm-performance](https://raw.githubusercontent.com/psrth/intro-to-machine-learning/main/imgs/nn-result.png)
+
+You can find this project on a **Google Colab** notebook [here.](https://colab.research.google.com/drive/1C4NPNzLrBHv2VXo3STBdyJ9W-sCnOUCX?usp=sharing)
